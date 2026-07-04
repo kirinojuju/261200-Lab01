@@ -1,11 +1,9 @@
-import java.awt.*;
-
 public class Main {
     public static void main(String[] args) {
         // Initialize Turtle.java
         Turtle leo = new Turtle();
         leo.speed(0);
-        Turtle.bgcolor(Color.black);
+        Turtle.bgcolor("black");
 
         // Using a bold white color against the black background
         leo.penColor("white");
