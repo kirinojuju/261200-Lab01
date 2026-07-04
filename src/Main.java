@@ -112,7 +112,6 @@ public class Main {
         leo.up(); leo.right(90); leo.forward(14); leo.left(90);
 
 
-
         leo.up();
         leo.forward(50);
         leo.left(90);
