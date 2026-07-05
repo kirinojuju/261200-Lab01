@@ -5,7 +5,7 @@ public class Main {
         leo.speed(0);
         Turtle.bgcolor("black");
 
-        // Using a bold white color against the black background
+        // Using a bold white color against the black background.
         leo.penColor("white");
         leo.width(5);
 
